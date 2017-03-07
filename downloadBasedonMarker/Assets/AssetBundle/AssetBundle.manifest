@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2013413539
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: medieval_building.1
+      Dependencies: {}
+    Info_1:
+      Name: testbake1.1
+      Dependencies: {}

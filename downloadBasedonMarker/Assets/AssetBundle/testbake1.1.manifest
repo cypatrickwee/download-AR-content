@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1671060675
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d8a5d094e5bb6058f4bd11f661274032
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 682d18ec161ce2d3806a6407573c7615
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Vuforia/fbxContent/design/testbake1.prefab
+Dependencies: []
